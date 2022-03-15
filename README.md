@@ -1,2 +1,2 @@
-# d-pot-quipe-de-d-veloppement
+# depot-quipe-de-d-veloppement
 Rendu AFPA
